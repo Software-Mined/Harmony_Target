@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DocumentManager</RootNamespace>
+    <AssemblyName>DocumentManager</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\com_jdeestudio_finger_print_lock.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v20.1.Core, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v20.1.Drawing, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v20.1.Core, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v20.1.Core, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraDialogs.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FastReport, Version=2020.4.4.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\FastReport.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Bars, Version=2020.4.4.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\FastReport.Bars.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Editor, Version=2020.4.4.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\FastReport.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Mineware.Systems.Global, Version=2020.5.1.28274, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\Mineware.Systems.Global.dll</HintPath>
+    </Reference>
+    <Reference Include="Mineware.Systems.GlobalConnect, Version=2020.5.1.28155, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\Mineware.Systems.GlobalConnect.dll</HintPath>
+    </Reference>
+    <Reference Include="Mineware.Systems.GlobalExtensions, Version=2020.5.1.28280, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\Mineware.Systems.GlobalExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Mineware.Systems.ProductionGlobal">
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\Mineware.Systems.ProductionGlobal.dll</HintPath>
+    </Reference>
+    <Reference Include="Mineware.Systems.ProductionHelp">
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\Mineware.Systems.ProductionHelp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\MIMSHarmony\Bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actions\ucLineActionManager_Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Actions\ucLineActionManager_Report.Designer.cs">
+      <DependentUpon>ucLineActionManager_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actions\Models\Forms.cs" />
+    <Compile Include="Actions\Models\LoggingHandler.cs" />
+    <Compile Include="Actions\Models\PrintedForm.cs" />
+    <Compile Include="Actions\Models\RestClient.cs" />
+    <Compile Include="Actions\ucActions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Actions\ucActions.Designer.cs">
+      <DependentUpon>ucActions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\clsGetSections.cs" />
+    <Compile Include="Classes\clsDataAccess.cs" />
+    <Compile Include="Classes\clsUserInformation.cs" />
+    <Compile Include="frmMainLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainLoad.Designer.cs">
+      <DependentUpon>frmMainLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreenLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreenLoad.Designer.cs">
+      <DependentUpon>SplashScreenLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Survey\CubbyStopNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Survey\CubbyStopNotes.designer.cs">
+      <DependentUpon>CubbyStopNotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Survey\FPMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Survey\FPMessage.designer.cs">
+      <DependentUpon>FPMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\fpslib.cs" />
+    <Compile Include="Classes\GlobalCls.cs" />
+    <Compile Include="Survey\ucSurveyMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Survey\ucSurveyMain.Designer.cs">
+      <DependentUpon>ucSurveyMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageFrm.Designer.cs">
+      <DependentUpon>MessageFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Survey\ReefBoringNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Survey\ReefBoringNote.designer.cs">
+      <DependentUpon>ReefBoringNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Survey\ucSurveyNote.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Survey\ucSurveyNote.Designer.cs">
+      <DependentUpon>ucSurveyNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventilation\frmDevelopmentInspection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventilation\frmDevelopmentInspection.Designer.cs">
+      <DependentUpon>frmDevelopmentInspection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventilation\frmInspection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventilation\frmInspection.Designer.cs">
+      <DependentUpon>frmInspection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventilation\frmInspectionFireRating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventilation\frmInspectionFireRating.Designer.cs">
+      <DependentUpon>frmInspectionFireRating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventilation\frmVentChecklistReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventilation\frmVentChecklistReport.Designer.cs">
+      <DependentUpon>frmVentChecklistReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventilation\frmVentilationActionCapture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventilation\frmVentilationActionCapture.Designer.cs">
+      <DependentUpon>frmVentilationActionCapture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventilation\frmVentOtherChecklist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventilation\frmVentOtherChecklist.Designer.cs">
+      <DependentUpon>frmVentOtherChecklist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventilation\ucVentAuth.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventilation\ucVentAuth.Designer.cs">
+      <DependentUpon>ucVentAuth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\zkfpri.cs" />
+    <Compile Include="Ventilation\ucVentChecklistReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventilation\ucVentChecklistReport.Designer.cs">
+      <DependentUpon>ucVentChecklistReport.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Actions\ucLineActionManager_Report.resx">
+      <DependentUpon>ucLineActionManager_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actions\ucActions.resx">
+      <DependentUpon>ucActions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainLoad.resx">
+      <DependentUpon>frmMainLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreenLoad.resx">
+      <DependentUpon>SplashScreenLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Survey\CubbyStopNotes.resx">
+      <DependentUpon>CubbyStopNotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Survey\FPMessage.resx">
+      <DependentUpon>FPMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Survey\ucSurveyMain.resx">
+      <DependentUpon>ucSurveyMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageFrm.resx">
+      <DependentUpon>MessageFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Survey\ReefBoringNote.resx">
+      <DependentUpon>ReefBoringNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Survey\ucSurveyNote.resx">
+      <DependentUpon>ucSurveyNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventilation\frmDevelopmentInspection.resx">
+      <DependentUpon>frmDevelopmentInspection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventilation\frmInspection.resx">
+      <DependentUpon>frmInspection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventilation\frmInspectionFireRating.resx">
+      <DependentUpon>frmInspectionFireRating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventilation\frmVentChecklistReport.resx">
+      <DependentUpon>frmVentChecklistReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventilation\frmVentilationActionCapture.resx">
+      <DependentUpon>frmVentilationActionCapture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventilation\frmVentOtherChecklist.resx">
+      <DependentUpon>frmVentOtherChecklist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventilation\ucVentAuth.resx">
+      <DependentUpon>ucVentAuth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventilation\ucVentChecklistReport.resx">
+      <DependentUpon>ucVentChecklistReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows-10-Wallpapers-Z212 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75%25_Scaled_anglogold-ashantihorizontal-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anglogold-ashantihorizontal-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold-on-Transparent-Print-Squarter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaaa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WindBlue.svg" />
+    <None Include="Resources\AddBlue2.svg" />
+    <Content Include="Resources\Bokehlicia-Captiva-Dev-scanner.ico" />
+    <None Include="Resources\CameraBlue1.svg" />
+    <None Include="Resources\CircularTickGreen2.svg" />
+    <Content Include="Resources\com_jdeestudio_finger_print_lock.ico" />
+    <None Include="Resources\AddBlue.svg" />
+    <None Include="Resources\AddGreen.svg" />
+    <None Include="Resources\AttachmentBlue.svg" />
+    <None Include="Resources\AttachmentBlue2.svg" />
+    <None Include="Resources\AttachmentGold.svg" />
+    <None Include="Resources\BackBlue.svg" />
+    <None Include="Resources\BarBlue.svg" />
+    <None Include="Resources\BarGraph.svg" />
+    <None Include="Resources\Calculate.svg" />
+    <None Include="Resources\Calendar.svg" />
+    <None Include="Resources\CalendarCycle.svg" />
+    <None Include="Resources\CalendarDaily.svg" />
+    <None Include="Resources\CalendarPrePlanning.svg" />
+    <None Include="Resources\CalendarSetupBlue.svg" />
+    <None Include="Resources\CameraBlue.svg" />
+    <None Include="Resources\ChainBlue.svg" />
+    <None Include="Resources\CheckGreen.svg" />
+    <None Include="Resources\CircularCrossRed.svg" />
+    <None Include="Resources\CircularTickBlue.svg" />
+    <None Include="Resources\CircularTickGreen.svg" />
+    <None Include="Resources\CircularWarningOrange.svg" />
+    <None Include="Resources\ClockBlue.svg" />
+    <None Include="Resources\ClockRed.svg" />
+    <None Include="Resources\CloseRed.svg" />
+    <None Include="Resources\CommentsBlue.svg" />
+    <None Include="Resources\CommentsGold.svg" />
+    <None Include="Resources\ConfigBlue.svg" />
+    <None Include="Resources\CopyBlue.svg" />
+    <None Include="Resources\CrossRed.svg" />
+    <None Include="Resources\Dashboard.svg" />
+    <None Include="Resources\DatabaseBlue.svg" />
+    <None Include="Resources\DegreesCelsius.svg" />
+    <None Include="Resources\DeleteRed.svg" />
+    <None Include="Resources\DocumentBlue.svg" />
+    <None Include="Resources\EditBlue.svg" />
+    <None Include="Resources\EditGold.svg" />
+    <None Include="Resources\EmailBlue.svg" />
+    <None Include="Resources\EmployeeBlue.svg" />
+    <None Include="Resources\EmployeesBlue.svg" />
+    <None Include="Resources\EmployeesGray.svg" />
+    <None Include="Resources\FlagGreen.svg" />
+    <None Include="Resources\FlagOrange.svg" />
+    <None Include="Resources\FlagRed.svg" />
+    <None Include="Resources\GearBlue.svg" />
+    <None Include="Resources\HandBlue.svg" />
+    <None Include="Resources\HelpBlue.svg" />
+    <None Include="Resources\HelpGreen.svg" />
+    <None Include="Resources\HomeBlue.svg" />
+    <None Include="Resources\HomeGold.svg" />
+    <None Include="Resources\Image.svg" />
+    <None Include="Resources\InformationBlue.svg" />
+    <None Include="Resources\Key.svg" />
+    <None Include="Resources\LocationBlue.svg" />
+    <None Include="Resources\LockClosed.svg" />
+    <None Include="Resources\LockOpen.svg" />
+    <None Include="Resources\MailGold.svg" />
+    <None Include="Resources\MainIcon.svg" />
+    <None Include="Resources\Map.svg" />
+    <None Include="Resources\MapBlue.svg" />
+    <None Include="Resources\MenuBlue.svg" />
+    <None Include="Resources\OptionsBlue.svg" />
+    <None Include="Resources\PieBlue.svg" />
+    <None Include="Resources\PrePlanningBlue.svg" />
+    <None Include="Resources\PrintBlue.svg" />
+    <None Include="Resources\Report.svg" />
+    <None Include="Resources\ReportBlue.svg" />
+    <None Include="Resources\SaveBlue.svg" />
+    <None Include="Resources\ScannerBlue.svg" />
+    <None Include="Resources\SettingsBlue.svg" />
+    <None Include="Resources\SettingsGray.svg" />
+    <None Include="Resources\StopRed.svg" />
+    <None Include="Resources\Temperature.svg" />
+    <None Include="Resources\TemperatureBlue.svg" />
+    <None Include="Resources\TrashRed.svg" />
+    <None Include="Resources\TruckBlue.svg" />
+    <None Include="Resources\User2Blue.svg" />
+    <None Include="Resources\UserBlue.svg" />
+    <None Include="Resources\UserSetup.svg" />
+    <None Include="Resources\WalkBlue.svg" />
+    <None Include="Resources\WalkingBlue.svg" />
+    <None Include="Resources\WalkingGold.svg" />
+    <None Include="Resources\WalkingRed.svg" />
+    <None Include="Resources\WarningCircledRed.svg" />
+    <None Include="Resources\WarningGold.svg" />
+    <None Include="Resources\WarningOrange.svg" />
+    <None Include="Resources\WarningRed.svg" />
+    <None Include="Resources\ZoomBlue.svg" />
+    <None Include="Resources\SM.ico" />
+    <None Include="Resources\Syncromine.png" />
+    <None Include="Resources\Menu.png" />
+    <None Include="Resources\SaveBlue1.svg" />
+    <None Include="Resources\SaveBlue2.svg" />
+    <None Include="Resources\DocumentHybridBlue.svg" />
+    <None Include="Resources\EditBlue2.svg" />
+    <None Include="Resources\EditBlue1.svg" />
+    <None Include="Resources\DocumentBlue2.svg" />
+    <Content Include="Resources\testbutton3.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

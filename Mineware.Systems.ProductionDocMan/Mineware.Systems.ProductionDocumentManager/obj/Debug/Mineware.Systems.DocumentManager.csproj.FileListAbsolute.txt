@@ -1,0 +1,201 @@
+C:\MIMSNew\Bin\DocumentManager.exe.config
+C:\MIMSNew\Bin\DocumentManager.exe
+C:\MIMSNew\Bin\DocumentManager.pdb
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ucActions.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.frmMainLoad.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.SplashScreenLoad.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.CubbyStopNotes.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.FPMessage.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.frmDevelopmentInspection.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.frmInspection.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.frmInspectionFireRating.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.frmVentChecklistReport.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.frmVentilationActionCapture.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.frmVentOtherChecklist.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ucSurveyMain.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.MessageFrm.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.Properties.Resources.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ReefBoringNote.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ucSurveyNote.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ucVentAuth.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ucVentChecklistReport.resources
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.csproj.GenerateResource.cache
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.exe.licenses
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.csproj.CoreCompileInputs.cache
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DocumentManager.exe.config
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DocumentManager.exe
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DocumentManager.pdb
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraDialogs.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraPdfViewer.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\FastReport.Bars.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\FastReport.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\FastReport.Editor.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\Newtonsoft.Json.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Dialogs.v20.1.Core.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraDialogs.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraPdfViewer.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\FastReport.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.Dialogs.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.Dialogs.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.Dialogs.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.Dialogs.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.csproj.CopyComplete
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.exe
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.pdb
+C:\Main_Source\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.csprojAssemblyReference.cache
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ucActions.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.frmMainLoad.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.SplashScreenLoad.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.CubbyStopNotes.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.FPMessage.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ucSurveyMain.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.MessageFrm.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.Properties.Resources.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ReefBoringNote.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.ucSurveyNote.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.csproj.GenerateResource.cache
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.exe.licenses
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.csproj.CoreCompileInputs.cache
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmVentOtherChecklist.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.ucVentAuth.resources
+C:\MIMSNew\Plugin\DocumentManager.exe.config
+C:\MIMSNew\Plugin\DocumentManager.exe
+C:\MIMSNew\Plugin\DocumentManager.pdb
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmDevelopmentInspection.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmInspection.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmInspectionFireRating.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmVentChecklistReport.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmVentilationActionCapture.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.ucVentChecklistReport.resources
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.csproj.CopyComplete
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.exe
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\DocumentManager.pdb
+C:\Source Code\Amplats\Mineware.Systems.EmailingTool\Mineware.Systems.EmailingTool\obj\Debug\Mineware.Systems.DocumentManager.csprojAssemblyReference.cache
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\DocumentManager.exe.config
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.ucActions.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\DocumentManager.frmMainLoad.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\DocumentManager.SplashScreenLoad.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.CubbyStopNotes.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.FPMessage.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.ucSurveyMain.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.MessageFrm.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\DocumentManager.Properties.Resources.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.ReefBoringNote.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.ucSurveyNote.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmDevelopmentInspection.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmInspection.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmInspectionFireRating.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmVentChecklistReport.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmVentilationActionCapture.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.frmVentOtherChecklist.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.ucVentAuth.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.Ventilation.ucVentChecklistReport.resources
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.csproj.GenerateResource.cache
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\DocumentManager.exe.licenses
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.csproj.CoreCompileInputs.cache
+C:\Source Code\MIMSNew\Plugin\DocumentManager.exe.config
+C:\Source Code\MIMSNew\Plugin\DocumentManager.exe
+C:\Source Code\MIMSNew\Plugin\DocumentManager.pdb
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\Mineware.Systems.DocumentManager.csproj.CopyComplete
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\DocumentManager.exe
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsDocMan\Mineware.Systems.ProductionDocumentManager\obj\Debug\DocumentManager.pdb

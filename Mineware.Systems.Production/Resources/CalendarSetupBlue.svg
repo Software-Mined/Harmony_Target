@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <path d="M29, 4L26, 4L26, 7C26, 7.5 25.5, 8 25, 8L21, 8C20.5, 8 20, 7.5 20, 7L20, 4L12, 4L12, 7C12, 7.5 11.5, 8 11, 8L7, 8C6.5, 8 6, 7.5 6, 7L6, 4L3, 4C2.4, 4 2, 4.4 2, 5L2, 10L30, 10L30, 5C30, 4.4 29.6, 4 29, 4z" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <g class="st1">
+        <rect x="8" y="14" width="4" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <g class="st1">
+        <rect x="14" y="20" width="4" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <g class="st1">
+        <rect x="8" y="20" width="4" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <g class="st1">
+        <rect x="20" y="14" width="4" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <g class="st1">
+        <rect x="14" y="14" width="4" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <g class="st1">
+        <rect x="20" y="20" width="4" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <path d="M28, 10L28, 28L4, 28L4, 10L2, 10L2, 29C2, 29.6 2.4, 30 3, 30L29, 30C29.6, 30 30, 29.6 30, 29L30, 10L28, 10z" style="fill:#1B197D" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <rect x="22" y="2" width="2" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Calendar">
+      <rect x="8" y="2" width="2" height="4" rx="0" ry="0" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 14)" style="enable-background:new 0 0 16 16">
+    <g id="Options">
+      <path d="M2.9, 0.5C1.8, 1 1, 1.8 0.5, 2.9L3.2, 5.6C3.8, 6.2 4.9, 6.2 5.6, 5.6L5.6, 5.6C6.2, 5 6.2, 3.9 5.6, 3.2L2.9, 0.5z" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 14)" style="enable-background:new 0 0 16 16">
+    <g id="Options">
+      <path d="M15.6, 13.6L9.4, 7.4C9.8, 6.7 10, 5.9 10, 5C10, 2.2 7.8, 0 5, 0C4.2, 0 3.5, 0.2 2.9, 0.5L5.6, 3.2C6.2, 3.8 6.2, 4.9 5.6, 5.6C5, 6.3 3.9, 6.2 3.2, 5.6L0.5, 2.9C0.2, 3.5 0, 4.2 0, 5C0, 7.8 2.2, 10 5, 10C5.9, 10 6.7, 9.8 7.4, 9.4L13.6, 15.6C14.2, 16.2 15, 16.2 15.6, 15.6L15.6, 15.6C16.1, 15 16.1, 14.1 15.6, 13.6z" style="fill:#172691" />
+    </g>
+  </g>
+</svg>

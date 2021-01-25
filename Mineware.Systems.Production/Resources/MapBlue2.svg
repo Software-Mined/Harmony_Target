@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-4 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0)">
+    <g id="Layer_1" transform="translate(-4, -2)" style="enable-background:new 0 0 32 32">
+      <g id="Map">
+        <path d="M20, 10L12, 2L4, 10L4, 30L12, 22L20, 30L28, 22L28, 2L20, 10zM20, 27.2L12, 19.2L12, 4.8L20, 12.8L20, 27.2z" fill="#24288C" style="fill:#424296" />
+      </g>
+    </g>
+  </g>
+</svg>

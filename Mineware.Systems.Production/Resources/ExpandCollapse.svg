@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="ExpandCollapse">
+        <path d="M9, 0C4, 0 0, 4 0, 9C0, 14 4, 18 9, 18C9.5, 18 10, 17.9 10.5, 17.9C11.6, 14.3 14.4, 11.5 17.9, 10.5C17.9, 10 18, 9.5 18, 9C18, 4 14, 0 9, 0zM14, 10L10, 10L10, 14L8, 14L8, 10L4, 10L4, 8L8, 8L8, 4L10, 4L10, 8L14, 8L14, 10z" fill="#039C23" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="ExpandCollapse">
+        <path d="M21, 12C16, 12 12, 16 12, 21C12, 26 16, 30 21, 30C26, 30 30, 26 30, 21C30, 16 26, 12 21, 12zM26, 22L16, 22L16, 20L26, 20L26, 22z" style="fill:#413E9E" />
+      </g>
+    </g>
+  </g>
+</svg>

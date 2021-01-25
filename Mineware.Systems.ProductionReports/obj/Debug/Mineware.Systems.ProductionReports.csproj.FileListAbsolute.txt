@@ -1,0 +1,45 @@
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.csprojAssemblyReference.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.IncidentsReport.frmResponciblePersonFeedback.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.KPIReport.KPIReportDev.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.KPIReport.KPIReport.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.PillarComplianceReport.Incidents.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.IncidentsReport.IncidentsDashboard.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.PillarComplianceReport.PillarCompliance.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.Properties.Resources.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.GenerateResource.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.dll.licenses
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsReports\obj\Debug\Mineware.Systems.ProductionReports.pdb
+C:\MIMSHarmony\Bin\Mineware.Systems.ProductionReports.dll.config
+C:\MIMSHarmony\Bin\Mineware.Systems.ProductionReports.dll
+C:\MIMSHarmony\Bin\Mineware.Systems.ProductionReports.pdb
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.csprojAssemblyReference.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.IncidentsReport.frmResponciblePersonFeedback.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.KPIReport.KPIReportDev.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.KPIReport.KPIReport.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.PillarComplianceReport.Incidents.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.IncidentsReport.IncidentsDashboard.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.PillarComplianceReport.PillarCompliance.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.Properties.Resources.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.GenerateResource.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.dll.licenses
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.pdb
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.csprojAssemblyReference.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.IncidentsReport.frmResponciblePersonFeedback.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.KPIReport.KPIReportDev.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.KPIReport.KPIReport.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.PillarComplianceReport.Incidents.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.IncidentsReport.IncidentsDashboard.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.PillarComplianceReport.PillarCompliance.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.Properties.Resources.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.GenerateResource.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.dll.licenses
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionReports\obj\Debug\Mineware.Systems.ProductionReports.pdb

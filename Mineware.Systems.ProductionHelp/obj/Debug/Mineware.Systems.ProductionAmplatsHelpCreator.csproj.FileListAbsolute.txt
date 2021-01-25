@@ -1,0 +1,10 @@
+C:\MIMSNew\Bin\Mineware.Systems.ProductionAmplatsHelpCreator.dll
+C:\MIMSNew\Bin\Mineware.Systems.ProductionAmplatsHelpCreator.pdb
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelpCreator\obj\Debug\Mineware.Systems.ProductionAmplatsHelpCreator.Properties.Resources.resources
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelpCreator\obj\Debug\Mineware.Systems.ProductionAmplatsHelpCreator.csproj.GenerateResource.cache
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelpCreator\obj\Debug\Mineware.Systems.ProductionAmplatsHelpCreator.dll.licenses
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelpCreator\obj\Debug\Mineware.Systems.ProductionAmplatsHelpCreator.csproj.CopyComplete
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelpCreator\obj\Debug\Mineware.Systems.ProductionAmplatsHelpCreator.dll
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelpCreator\obj\Debug\Mineware.Systems.ProductionAmplatsHelpCreator.pdb
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelpCreator\obj\Debug\Mineware.Systems.ProductionAmplatsHelpCreator.csprojAssemblyReference.cache
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelpCreator\obj\Debug\Mineware.Systems.ProductionAmplatsHelpCreator.frmWordEditor.resources

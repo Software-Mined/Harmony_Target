@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WPASDocManPas</RootNamespace>
+    <AssemblyName>WPASDocManPas</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>com_jdeestudio_finger_print_lock.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraDialogs.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FastReport, Version=2019.1.0.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FastReport.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Bars, Version=2019.1.0.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FastReport.Bars.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Editor, Version=2019.1.0.0, Culture=neutral, PublicKeyToken=db7e5ce63278458c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FastReport.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Mineware.Systems.Global, Version=19.6.1.17018, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Mineware.Systems.Global.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsDataAccess.cs" />
+    <Compile Include="clsUserInformation.cs" />
+    <Compile Include="fpslib.cs" />
+    <Compile Include="frmDevelopmentInspection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDevelopmentInspection.Designer.cs">
+      <DependentUpon>frmDevelopmentInspection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInspection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInspection.Designer.cs">
+      <DependentUpon>frmInspection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInspectionFireRating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInspectionFireRating.Designer.cs">
+      <DependentUpon>frmInspectionFireRating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVentChecklistReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVentChecklistReport.Designer.cs">
+      <DependentUpon>frmVentChecklistReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVentilationActionCapture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVentilationActionCapture.Designer.cs">
+      <DependentUpon>frmVentilationActionCapture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVentMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVentMain.Designer.cs">
+      <DependentUpon>frmVentMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVentOtherChecklist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVentOtherChecklist.Designer.cs">
+      <DependentUpon>frmVentOtherChecklist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalCls.cs" />
+    <Compile Include="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrm.Designer.cs">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageFrm.Designer.cs">
+      <DependentUpon>MessageFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SplashFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashFrm.Designer.cs">
+      <DependentUpon>SplashFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucVentAuth.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVentAuth.Designer.cs">
+      <DependentUpon>ucVentAuth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucVentChecklistReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVentChecklistReport.Designer.cs">
+      <DependentUpon>ucVentChecklistReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zkfpri.cs" />
+    <EmbeddedResource Include="frmDevelopmentInspection.resx">
+      <DependentUpon>frmDevelopmentInspection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInspection.resx">
+      <DependentUpon>frmInspection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInspectionFireRating.resx">
+      <DependentUpon>frmInspectionFireRating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVentChecklistReport.resx">
+      <DependentUpon>frmVentChecklistReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVentilationActionCapture.resx">
+      <DependentUpon>frmVentilationActionCapture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVentMain.resx">
+      <DependentUpon>frmVentMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVentOtherChecklist.resx">
+      <DependentUpon>frmVentOtherChecklist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrm.resx">
+      <DependentUpon>MainFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageFrm.resx">
+      <DependentUpon>MessageFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SplashFrm.resx">
+      <DependentUpon>SplashFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucVentAuth.resx">
+      <DependentUpon>ucVentAuth.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows-10-Wallpapers-Z212 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75%25_Scaled_anglogold-ashantihorizontal-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anglogold-ashantihorizontal-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold-on-Transparent-Print-Squarter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaaa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bokehlicia-Captiva-Dev-scanner.ico" />
+    <Content Include="com_jdeestudio_finger_print_lock.ico" />
+    <Content Include="testbutton3.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

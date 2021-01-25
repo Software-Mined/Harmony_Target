@@ -1,0 +1,16 @@
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.pdb
+C:\MIMSHarmony\Bin\Mineware.Systems.ProductionGlobal.dll
+C:\MIMSHarmony\Bin\Mineware.Systems.ProductionGlobal.pdb
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.csprojAssemblyReference.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.pdb
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.csprojAssemblyReference.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionGlobal\obj\Debug\Mineware.Systems.ProductionGlobal.pdb

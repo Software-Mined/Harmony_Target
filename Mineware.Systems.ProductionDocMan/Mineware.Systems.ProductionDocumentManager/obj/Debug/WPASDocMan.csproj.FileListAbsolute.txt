@@ -1,0 +1,158 @@
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\bin\Debug\WPASDocMan.exe.config
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\bin\Debug\WPASDocMan.exe
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\bin\Debug\WPASDocMan.pdb
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.csprojResolveAssemblyReference.cache
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.Properties.Resources.resources
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.SplashFrm.resources
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.csproj.GenerateResource.Cache
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.exe
+c:\users\dian\documents\visual studio 2012\Projects\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.pdb
+C:\Source\AGA\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.MainFrm.resources
+C:\Source\AGA\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.SplashFrm.resources
+C:\Source\AGA\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.csproj.GenerateResource.Cache
+C:\Source\AGA\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.MessageFrm.resources
+C:\Source\Old\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.exe.config
+C:\Source\Old\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.csprojResolveAssemblyReference.cache
+C:\Source\Old\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.MainFrm.resources
+C:\Source\Old\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.MessageFrm.resources
+C:\Source\Old\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.Properties.Resources.resources
+C:\Source\Old\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.SplashFrm.resources
+C:\Source\Old\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.csproj.GenerateResource.Cache
+C:\Source\Old\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.exe
+C:\Source\Old\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.pdb
+C:\Source\Old\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.exe
+C:\Source\Old\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.pdb
+C:\Source\AGA\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.exe.config
+C:\Source\AGA\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.exe
+C:\Source\AGA\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.pdb
+C:\Source\AGA\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.exe
+C:\Source\AGA\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.pdb
+C:\Source\AGA\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.Properties.Resources.resources
+C:\Source\AGA\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.csprojResolveAssemblyReference.cache
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.exe
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.pdb
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\WPASDocManPas.exe.config
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraDialogs.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraScheduler.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Dialogs.v18.1.Core.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraPdfViewer.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Images.v18.1.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Pdf.v18.1.Drawing.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraScheduler.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.XtraPdfViewer.v18.1.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Pdf.v18.1.Drawing.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.XtraPdfViewer.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.XtraPdfViewer.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.XtraPdfViewer.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.XtraPdfViewer.v18.1.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.frmDevelopmentInspection.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.frmInspection.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.frmInspectionFireRating.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.frmVentilationActionCapture.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.frmVentMain.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.frmVentOtherChecklist.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.MainFrm.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.MessageFrm.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.Properties.Resources.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.SplashFrm.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.ucVentAuth.resources
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.csproj.GenerateResource.Cache
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.exe.licenses
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.exe
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.pdb
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocMan.csprojResolveAssemblyReference.cache
+D:\Source Main\WPASDocMan\WPASDocMan\obj\Debug\WPASDocManPas.frmVentChecklistReport.resources

@@ -1,0 +1,6 @@
+C:\MIMSNew\Bin\Mineware.Systems.ProductionAmplatsGlobal.dll
+C:\MIMSNew\Bin\Mineware.Systems.ProductionAmplatsGlobal.pdb
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsGlobal\obj\Debug\Mineware.Systems.ProductionAmplatsGlobal.csproj.CoreCompileInputs.cache
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsGlobal\obj\Debug\Mineware.Systems.ProductionAmplatsGlobal.csproj.CopyComplete
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsGlobal\obj\Debug\Mineware.Systems.ProductionAmplatsGlobal.dll
+C:\Source Code\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsGlobal\obj\Debug\Mineware.Systems.ProductionAmplatsGlobal.pdb

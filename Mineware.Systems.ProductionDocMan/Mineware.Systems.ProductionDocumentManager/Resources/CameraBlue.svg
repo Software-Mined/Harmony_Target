@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -4 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -4)" style="enable-background:new 0 0 32 32">
+    <g id="Photo">
+      <path d="M29, 8L24, 8L20, 4L12, 4L8, 8L3, 8C2.5, 8 2, 8.5 2, 9L2, 27C2, 27.5 2.5, 28 3, 28L29, 28C29.5, 28 30, 27.5 30, 27L30, 9C30, 8.5 29.5, 8 29, 8zM8, 14C6.9, 14 6, 13.1 6, 12C6, 10.9 6.9, 10 8, 10C9.1, 10 10, 10.9 10, 12C10, 13.1 9.1, 14 8, 14zM16, 24C12.7, 24 10, 21.3 10, 18C10, 14.7 12.7, 12 16, 12C19.3, 12 22, 14.7 22, 18C22, 21.3 19.3, 24 16, 24z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)" style="enable-background:new 0 0 32 32">
+    <g id="Photo">
+      <circle cx="16" cy="18" r="4" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+</svg>

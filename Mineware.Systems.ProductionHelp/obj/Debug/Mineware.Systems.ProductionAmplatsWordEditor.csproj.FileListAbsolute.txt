@@ -1,0 +1,9 @@
+C:\MIMSNew\Bin\Mineware.Systems.ProductionAmplatsWordEditor.dll
+C:\MIMSNew\Bin\Mineware.Systems.ProductionAmplatsWordEditor.pdb
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.AmplatsHelpFileCreator\obj\Debug\Mineware.Systems.AmplatsHelpFileCreator.Form1.resources
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.AmplatsHelpFileCreator\obj\Debug\Mineware.Systems.ProductionAmplatsWordEditor.Properties.Resources.resources
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.AmplatsHelpFileCreator\obj\Debug\Mineware.Systems.ProductionAmplatsWordEditor.csproj.GenerateResource.cache
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.AmplatsHelpFileCreator\obj\Debug\Mineware.Systems.ProductionAmplatsWordEditor.dll.licenses
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.AmplatsHelpFileCreator\obj\Debug\Mineware.Systems.ProductionAmplatsWordEditor.csproj.CopyComplete
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.AmplatsHelpFileCreator\obj\Debug\Mineware.Systems.ProductionAmplatsWordEditor.dll
+C:\Main_Source\Amplats\Mineware.Systems.ProductionAmplats\Mineware.Systems.AmplatsHelpFileCreator\obj\Debug\Mineware.Systems.ProductionAmplatsWordEditor.pdb

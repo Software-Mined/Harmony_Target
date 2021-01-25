@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mineware.Systems.Production", "Mineware.Systems.Production\Mineware.Systems.Production.csproj", "{97335B91-6F65-410F-9A8F-3FAA23D971FF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{03802D38-AB73-4A11-9179-618757384738} = {03802D38-AB73-4A11-9179-618757384738}
+		{7B750749-7D0D-4974-ADE0-DCB7F9877DC7} = {7B750749-7D0D-4974-ADE0-DCB7F9877DC7}
+		{8578B46C-779C-405A-9232-9179BCC8ACC8} = {8578B46C-779C-405A-9232-9179BCC8ACC8}
+		{EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4} = {EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mineware.Systems.ProductionGlobal", "Mineware.Systems.ProductionGlobal\Mineware.Systems.ProductionGlobal.csproj", "{8578B46C-779C-405A-9232-9179BCC8ACC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mineware.Systems.ProductionHelp", "Mineware.Systems.ProductionHelp\Mineware.Systems.ProductionHelp.csproj", "{03802D38-AB73-4A11-9179-618757384738}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8578B46C-779C-405A-9232-9179BCC8ACC8} = {8578B46C-779C-405A-9232-9179BCC8ACC8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mineware.Systems.ProductionReports", "Mineware.Systems.ProductionReports\Mineware.Systems.ProductionReports.csproj", "{7B750749-7D0D-4974-ADE0-DCB7F9877DC7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8578B46C-779C-405A-9232-9179BCC8ACC8} = {8578B46C-779C-405A-9232-9179BCC8ACC8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mineware.Systems.ProductionDocMan", "Mineware.Systems.ProductionDocMan\Mineware.Systems.ProductionDocumentManager\Mineware.Systems.ProductionDocMan.csproj", "{EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8578B46C-779C-405A-9232-9179BCC8ACC8} = {8578B46C-779C-405A-9232-9179BCC8ACC8}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97335B91-6F65-410F-9A8F-3FAA23D971FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97335B91-6F65-410F-9A8F-3FAA23D971FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97335B91-6F65-410F-9A8F-3FAA23D971FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97335B91-6F65-410F-9A8F-3FAA23D971FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8578B46C-779C-405A-9232-9179BCC8ACC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8578B46C-779C-405A-9232-9179BCC8ACC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8578B46C-779C-405A-9232-9179BCC8ACC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8578B46C-779C-405A-9232-9179BCC8ACC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03802D38-AB73-4A11-9179-618757384738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03802D38-AB73-4A11-9179-618757384738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03802D38-AB73-4A11-9179-618757384738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03802D38-AB73-4A11-9179-618757384738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B750749-7D0D-4974-ADE0-DCB7F9877DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B750749-7D0D-4974-ADE0-DCB7F9877DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B750749-7D0D-4974-ADE0-DCB7F9877DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B750749-7D0D-4974-ADE0-DCB7F9877DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1F2AEC-9D48-4F9E-A8F8-80E8B7B03DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FED0B01-23F4-4148-82A0-0A031C1448D0}
+	EndGlobalSection
+EndGlobal

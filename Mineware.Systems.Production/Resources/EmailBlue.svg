@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2.0025 -5.735 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-7.4692, -11.2017)">
+    <g transform="matrix(1.8667, 0, 0, 1.8667, 0, 0)">
+      <g>
+        <g>
+          <path d="M18.2, 6C18.1, 6 18, 6 18, 6L5, 6C4.9, 6 4.8, 6 4.8, 6L11.5, 12.7L18.2, 6z" style="fill:#375C94" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-7.4692, -11.2017)">
+    <g transform="matrix(1.8667, 0, 0, 1.8667, 0, 0)">
+      <g>
+        <g>
+          <path d="M12.2, 13.5L11.5, 14.2L10.8, 13.5L4, 6.8C4, 6.8 4, 6.9 4, 7L4, 16C4, 16.6 4.4, 17 5, 17L18, 17C18.6, 17 19, 16.6 19, 16L19, 7C19, 6.9 19, 6.8 19, 6.8L12.2, 13.5z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

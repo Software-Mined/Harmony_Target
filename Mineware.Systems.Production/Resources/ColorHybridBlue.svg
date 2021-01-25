@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <g>
+          <path d="M15, 0C6.7, 0 0, 6.7 0, 15C0, 23.3 6.7, 30 15, 30C23.3, 30 30, 23.3 30, 15C30, 6.7 23.3, 0 15, 0zM15, 28C7.8, 28 2, 22.2 2, 15C2, 7.8 7.8, 2 15, 2C22.2, 2 28, 7.8 28, 15C28, 22.2 22.2, 28 15, 28z" fill="#727272" class="Black" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <g>
+          <path d="M15, 0C6.7, 0 0, 6.7 0, 15C0, 23.3 6.7, 30 15, 30C23.3, 30 30, 23.3 30, 15C30, 6.7 23.3, 0 15, 0zM15, 28C7.8, 28 2, 22.2 2, 15C2, 7.8 7.8, 2 15, 2C22.2, 2 28, 7.8 28, 15C28, 22.2 22.2, 28 15, 28z" fill="#727272" class="Black" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <path d="M17.7, 10.8L22, 6.5C20.3, 5.1 18.2, 4.2 16, 4L16, 10.1C16.6, 10.2 17.2, 10.4 17.7, 10.8z" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <path d="M13.9, 10.1L13.9, 4C11.6, 4.2 9.5, 5.1 7.9, 6.5L12.2, 10.8C12.7, 10.4 13.3, 10.2 13.9, 10.1z" fill="#FFB115" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <path d="M19.8, 13.9L25.9, 13.9C25.7, 11.6 24.8, 9.5 23.4, 7.9L19.1, 12.2C19.5, 12.7 19.7, 13.3 19.8, 13.9z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <path d="M15.9, 19.8L15.9, 25.9C18.2, 25.7 20.3, 24.8 21.9, 23.4L17.6, 19.1C17.2, 19.5 16.6, 19.7 15.9, 19.8z" style="fill:#413E9E" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <path d="M12.2, 19.1L7.9, 23.4C9.6, 24.8 11.7, 25.7 13.9, 25.9L13.9, 19.8C13.3, 19.7 12.7, 19.5 12.2, 19.1z" fill="#039C23" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <path d="M19.8, 15.9C19.7, 16.5 19.4, 17.1 19.1, 17.7L23.4, 22C24.8, 20.3 25.7, 18.2 25.9, 16L19.8, 16z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <path d="M10.8, 12.2L6.5, 7.9C5.1, 9.6 4.2, 11.7 4, 13.9L10.1, 13.9C10.2, 13.3 10.4, 12.7 10.8, 12.2z" fill="#FFB115" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g>
+        <path d="M10.1, 15.9L4, 15.9C4.2, 18.2 5.1, 20.3 6.5, 21.9L10.8, 17.6C10.4, 17.2 10.2, 16.6 10.1, 15.9z" fill="#039C23" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g class="st0">
+        <path d="M13.9, 10.1L13.9, 4C11.6, 4.2 9.5, 5.1 7.9, 6.5L12.2, 10.8C12.7, 10.4 13.3, 10.2 13.9, 10.1z" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g class="st1">
+        <path d="M10.1, 15.9L4, 15.9C4.2, 18.2 5.1, 20.3 6.5, 21.9L10.8, 17.6C10.4, 17.2 10.2, 16.6 10.1, 15.9z" fill="#FFB115" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g class="st0">
+        <path d="M19.8, 15.9C19.7, 16.5 19.4, 17.1 19.1, 17.7L23.4, 22C24.8, 20.3 25.7, 18.2 25.9, 16L19.8, 16z" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g class="st1">
+        <path d="M19.8, 13.9L25.9, 13.9C25.7, 11.6 24.8, 9.5 23.4, 7.9L19.1, 12.2C19.5, 12.7 19.7, 13.3 19.8, 13.9z" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+</svg>

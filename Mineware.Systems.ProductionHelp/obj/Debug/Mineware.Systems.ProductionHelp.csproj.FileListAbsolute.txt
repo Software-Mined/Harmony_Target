@@ -1,0 +1,28 @@
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelp\obj\Debug\Mineware.Systems.ProductionHelp.frmWordEditor.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelp\obj\Debug\Mineware.Systems.ProductionHelp.Properties.Resources.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.GenerateResource.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelp\obj\Debug\Mineware.Systems.ProductionHelp.dll.licenses
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelp\obj\Debug\Mineware.Systems.ProductionHelp.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionAmplatsHelp\obj\Debug\Mineware.Systems.ProductionHelp.pdb
+C:\MIMSHarmony\Bin\Mineware.Systems.ProductionHelp.dll
+C:\MIMSHarmony\Bin\Mineware.Systems.ProductionHelp.pdb
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.csprojAssemblyReference.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.frmWordEditor.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.Properties.Resources.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.GenerateResource.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.dll.licenses
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.ProductionAmplats\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.pdb
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.csprojAssemblyReference.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.frmWordEditor.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.Properties.Resources.resources
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.GenerateResource.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.dll.licenses
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.CoreCompileInputs.cache
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.csproj.CopyComplete
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.dll
+C:\Source Code\Harmony_Production\Mineware.Systems.Production\Mineware.Systems.ProductionHelp\obj\Debug\Mineware.Systems.ProductionHelp.pdb

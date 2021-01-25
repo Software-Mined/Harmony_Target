@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -3.0025 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2.0105, -1.9753)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.999, 0, 0, 0.999, 0, 0)">
+      <g id="Attention">
+        <path d="M15.1, 2.5L2.1, 26.5C1.8, 27.2 2.3, 28 3.1, 28L29, 28C29.8, 28 30.3, 27.2 29.9, 26.5L16.9, 2.5C16.5, 1.8 15.5, 1.8 15.1, 2.5z" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2.0105, -1.9753)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(0.999, 0, 0, 0.999, 0, 0)">
+      <g id="Attention">
+        <path d="M16, 20C17.1, 20 18, 20.9 18, 22C18, 23.1 17.1, 24 16, 24C14.9, 24 14, 23.1 14, 22C14, 20.9 14.9, 20 16, 20zM14, 10L18, 10L18, 18L14, 18L14, 10z" fill="#FFFFFF" class="White" />
+      </g>
+    </g>
+  </g>
+</svg>
